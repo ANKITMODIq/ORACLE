@@ -44,4 +44,4 @@ async def send(ctx, *, content: str):
                 await client.say("DM can't Sent To : {} :x: ".format(member))
 
 
-client.run("NzM2NDM0NTYyNzgyOTg2MzIy.XxuwIg.9o-2wemQu01m6DOB8IxRG6GdFho")                
+client.run("NzQwNDIwOTc2NjE3MDYyNDQw.XyowxQ.VeRgCnz-y3C1XbBV4X4XngvwvU4")                
